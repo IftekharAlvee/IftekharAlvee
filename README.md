@@ -7,9 +7,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/iftekharul-islam-912507194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alvee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alveemania/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Iftekharul Islam Alvee" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="" height="30" width="40" /></a> -->
  <a href = "mailto: alveee1998@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Iftekharul Islam Alvee, a <b>2nd year</b> undergraduate student from <a href="https://www.acetamritsar.ac.in/"> <b>Hajee Mohammad Danesh Science And Technology University</b>, Dinajpur</a>. <br>
+    This is ME, Iftekharul Islam Alvee, a <b>2nd year</b> undergraduate student from <a href="https://www.hstu.ac.bd/"> <b>Hajee Mohammad Danesh Science And Technology University</b>, Dinajpur</a>. <br>
     A budding <b>MERN-STACK Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
