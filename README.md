@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Iftekharul Islam Alvee, a <b>2nd year</b> undergraduate student from <a href="https://www.hstu.ac.bd/"> <b>Hajee Mohammad Danesh Science And Technology University</b>, Dinajpur</a>. <br>
+    This is ME, Iftekharul Islam Alvee, a <b>Final year</b> undergraduate student from <a href="https://www.hstu.ac.bd/"> <b>Hajee Mohammad Danesh Science And Technology University</b>, Dinajpur</a>. <br>
     A budding <b>MERN-STACK Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
